@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 1beb34e181042db488cd0f5df9854fba
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 3a55916c089be4c438698eb9780eb593
+  - enabled: 1
+    path: Assets/Scenes/Play.unity
+    guid: c15d98049aaac48428dde36432d05423
+  - enabled: 1
+    path: Assets/Scenes/Human base.unity
+    guid: 7ad725ab9b37f454ba62235e5d6b9753
+  - enabled: 1
+    path: Assets/Scenes/Orc base.unity
+    guid: 755864cb33bac524e96437e820bfff19
+  - enabled: 1
+    path: Assets/Scenes/InGameScene.unity
+    guid: 164fb7412db80604bb806686a978705d
+  - enabled: 1
+    path: Assets/Scenes/Deck.unity
+    guid: 46927da1baeb03143868121f10450afa
+  m_configObjects: {}
