@@ -1,4 +1,0 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-card-battle-game filter=lfs diff=lfs merge=lfs -text
-README.md filter=lfs diff=lfs merge=lfs -text
